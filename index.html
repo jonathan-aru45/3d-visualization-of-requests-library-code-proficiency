@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Python Competency 3D City</title>
+    <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/aframe-troika-text"></script>
+
+    <script src="generate_scene.js"></script>
+    <style>
+        #sidebar {
+            display: none;
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            width: 300px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 20px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            z-index: 1000;
+        }
+        #sidebar button {
+            background-color: #f44336;
+            color: #fff;
+            border: none;
+            padding: 5px 10px;
+            cursor: pointer;
+            float: right;
+        }
+        #sidebar h3 {
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+    <a-scene>
+        <a-assets>
+            <img id="roadTexture" src="https://cdn.glitch.global/d3073659-2599-4cb7-9646-a5be0f545f1f/113_asphalt%20road%20texture-seamless.jpg">
+            <img id="skyTexture" src="https://cdn.glitch.global/d3073659-2599-4cb7-9646-a5be0f545f1f/autumn_field_puresky_4k.jpg">
+        </a-assets>
+        <a-sky src="#skyTexture" rotation="0 -90 0"></a-sky>
+        <a-box position="0 50 0" width="600" depth="600" height="10" src="#roadTexture" material="repeat: 20 20;"></a-box>
+        <a-box position="0 -10 0" width="1000" depth="1000" height="20" color="#8B4513"></a-box>
+
+        <!-- Lighting -->
+        <a-light type="ambient" intensity="0.4" color="#FFDAB9"></a-light>
+        <a-light type="directional" position="0 200 100" intensity="0.5" color="#FFFACD" castShadow="false"></a-light>
+        <a-light type="point" position="-100 60 -100" intensity="0.6" color="#FFD700"></a-light>
+        <a-light type="directional" position="0 200 100" intensity="1.5" color="#FFFACD"></a-light>
+
+    <a-entity id="main-camera" position="-100 110 -200" rotation="0 180 0">
+    <a-camera look-controls wasd-controls="acceleration: 1000">
+        <a-cursor color="#000" raycaster="objects: .interactive"></a-cursor>
+    </a-camera>
+</a-entity>
+
+
+        <a-entity id="treemap-content"></a-entity>
+    </a-scene>
+    <div id="sidebar"></div>
+</body>
+</html>

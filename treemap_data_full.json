@@ -1,0 +1,296 @@
+{
+    "docs": {
+        "docs": {
+            "conf.py": {
+                "total_elements": 67,
+                "competency_groups": {
+                    "AB": 67,
+                    "C1": 0,
+                    "C2": 0
+                }
+            }
+        },
+        "_themes": {
+            "flask_theme_support.py": {
+                "total_elements": 59,
+                "competency_groups": {
+                    "AB": 59,
+                    "C1": 0,
+                    "C2": 0
+                }
+            }
+        },
+        "requestsmain": {
+            "setup.py": {
+                "total_elements": 51,
+                "competency_groups": {
+                    "AB": 51,
+                    "C1": 0,
+                    "C2": 0
+                }
+            }
+        },
+        "requests": {
+            "adapters.py": {
+                "total_elements": 385,
+                "competency_groups": {
+                    "AB": 382,
+                    "C1": 1,
+                    "C2": 2
+                }
+            },
+            "api.py": {
+                "total_elements": 21,
+                "competency_groups": {
+                    "AB": 21,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "auth.py": {
+                "total_elements": 319,
+                "competency_groups": {
+                    "AB": 318,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "certs.py": {
+                "total_elements": 3,
+                "competency_groups": {
+                    "AB": 3,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "compat.py": {
+                "total_elements": 47,
+                "competency_groups": {
+                    "AB": 46,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "cookies.py": {
+                "total_elements": 362,
+                "competency_groups": {
+                    "AB": 355,
+                    "C1": 4,
+                    "C2": 3
+                }
+            },
+            "exceptions.py": {
+                "total_elements": 50,
+                "competency_groups": {
+                    "AB": 49,
+                    "C1": 0,
+                    "C2": 1
+                }
+            },
+            "help.py": {
+                "total_elements": 100,
+                "competency_groups": {
+                    "AB": 100,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "hooks.py": {
+                "total_elements": 20,
+                "competency_groups": {
+                    "AB": 19,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "models.py": {
+                "total_elements": 688,
+                "competency_groups": {
+                    "AB": 684,
+                    "C1": 4,
+                    "C2": 0
+                }
+            },
+            "packages.py": {
+                "total_elements": 27,
+                "competency_groups": {
+                    "AB": 27,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "sessions.py": {
+                "total_elements": 463,
+                "competency_groups": {
+                    "AB": 457,
+                    "C1": 6,
+                    "C2": 0
+                }
+            },
+            "status_codes.py": {
+                "total_elements": 91,
+                "competency_groups": {
+                    "AB": 89,
+                    "C1": 2,
+                    "C2": 0
+                }
+            },
+            "structures.py": {
+                "total_elements": 69,
+                "competency_groups": {
+                    "AB": 66,
+                    "C1": 2,
+                    "C2": 1
+                }
+            },
+            "utils.py": {
+                "total_elements": 690,
+                "competency_groups": {
+                    "AB": 680,
+                    "C1": 10,
+                    "C2": 0
+                }
+            },
+            "_internal_utils.py": {
+                "total_elements": 28,
+                "competency_groups": {
+                    "AB": 27,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "__init__.py": {
+                "total_elements": 87,
+                "competency_groups": {
+                    "AB": 86,
+                    "C1": 0,
+                    "C2": 1
+                }
+            },
+            "__version__.py": {
+                "total_elements": 10,
+                "competency_groups": {
+                    "AB": 10,
+                    "C1": 0,
+                    "C2": 0
+                }
+            }
+        },
+        "tests": {
+            "compat.py": {
+                "total_elements": 10,
+                "competency_groups": {
+                    "AB": 10,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "conftest.py": {
+                "total_elements": 54,
+                "competency_groups": {
+                    "AB": 53,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "test_adapters.py": {
+                "total_elements": 11,
+                "competency_groups": {
+                    "AB": 11,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "test_help.py": {
+                "total_elements": 18,
+                "competency_groups": {
+                    "AB": 18,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "test_hooks.py": {
+                "total_elements": 20,
+                "competency_groups": {
+                    "AB": 20,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "test_lowlevel.py": {
+                "total_elements": 359,
+                "competency_groups": {
+                    "AB": 358,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "test_packages.py": {
+                "total_elements": 10,
+                "competency_groups": {
+                    "AB": 10,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "test_requests.py": {
+                "total_elements": 3305,
+                "competency_groups": {
+                    "AB": 3291,
+                    "C1": 14,
+                    "C2": 0
+                }
+            },
+            "test_structures.py": {
+                "total_elements": 76,
+                "competency_groups": {
+                    "AB": 76,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "test_testserver.py": {
+                "total_elements": 163,
+                "competency_groups": {
+                    "AB": 163,
+                    "C1": 0,
+                    "C2": 0
+                }
+            },
+            "test_utils.py": {
+                "total_elements": 671,
+                "competency_groups": {
+                    "AB": 670,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "utils.py": {
+                "total_elements": 19,
+                "competency_groups": {
+                    "AB": 18,
+                    "C1": 1,
+                    "C2": 0
+                }
+            },
+            "__init__.py": {
+                "total_elements": 5,
+                "competency_groups": {
+                    "AB": 5,
+                    "C1": 0,
+                    "C2": 0
+                }
+            }
+        },
+        "testserver": {
+            "server.py": {
+                "total_elements": 184,
+                "competency_groups": {
+                    "AB": 182,
+                    "C1": 0,
+                    "C2": 2
+                }
+            }
+        }
+    }
+}

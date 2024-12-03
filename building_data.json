@@ -1,0 +1,317 @@
+[
+  {
+    "folder": "docs",
+    "file": "conf.py",
+    "competency_groups": {
+      "AB": 67,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "_themes",
+    "file": "flask_theme_support.py",
+    "competency_groups": {
+      "AB": 59,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requestsmain",
+    "file": "setup.py",
+    "competency_groups": {
+      "AB": 51,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "adapters.py",
+    "competency_groups": {
+      "AB": 382,
+      "C1": 1,
+      "C2": 2
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "api.py",
+    "competency_groups": {
+      "AB": 21,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "auth.py",
+    "competency_groups": {
+      "AB": 318,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "certs.py",
+    "competency_groups": {
+      "AB": 3,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "compat.py",
+    "competency_groups": {
+      "AB": 46,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "cookies.py",
+    "competency_groups": {
+      "AB": 355,
+      "C1": 4,
+      "C2": 3
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "exceptions.py",
+    "competency_groups": {
+      "AB": 49,
+      "C1": 0,
+      "C2": 1
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "help.py",
+    "competency_groups": {
+      "AB": 100,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "hooks.py",
+    "competency_groups": {
+      "AB": 19,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "models.py",
+    "competency_groups": {
+      "AB": 684,
+      "C1": 4,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "packages.py",
+    "competency_groups": {
+      "AB": 27,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "sessions.py",
+    "competency_groups": {
+      "AB": 457,
+      "C1": 6,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "status_codes.py",
+    "competency_groups": {
+      "AB": 89,
+      "C1": 2,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "structures.py",
+    "competency_groups": {
+      "AB": 66,
+      "C1": 2,
+      "C2": 1
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "utils.py",
+    "competency_groups": {
+      "AB": 680,
+      "C1": 10,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "_internal_utils.py",
+    "competency_groups": {
+      "AB": 27,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "__init__.py",
+    "competency_groups": {
+      "AB": 86,
+      "C1": 0,
+      "C2": 1
+    }
+  },
+  {
+    "folder": "requests",
+    "file": "__version__.py",
+    "competency_groups": {
+      "AB": 10,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "compat.py",
+    "competency_groups": {
+      "AB": 10,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "conftest.py",
+    "competency_groups": {
+      "AB": 53,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_adapters.py",
+    "competency_groups": {
+      "AB": 11,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_help.py",
+    "competency_groups": {
+      "AB": 18,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_hooks.py",
+    "competency_groups": {
+      "AB": 20,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_lowlevel.py",
+    "competency_groups": {
+      "AB": 358,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_packages.py",
+    "competency_groups": {
+      "AB": 10,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_requests.py",
+    "competency_groups": {
+      "AB": 3291,
+      "C1": 14,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_structures.py",
+    "competency_groups": {
+      "AB": 76,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_testserver.py",
+    "competency_groups": {
+      "AB": 163,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "test_utils.py",
+    "competency_groups": {
+      "AB": 670,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "utils.py",
+    "competency_groups": {
+      "AB": 18,
+      "C1": 1,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "tests",
+    "file": "__init__.py",
+    "competency_groups": {
+      "AB": 5,
+      "C1": 0,
+      "C2": 0
+    }
+  },
+  {
+    "folder": "testserver",
+    "file": "server.py",
+    "competency_groups": {
+      "AB": 182,
+      "C1": 0,
+      "C2": 2
+    }
+  }
+]
