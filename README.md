@@ -51,6 +51,6 @@ This project is an interactive 3D visualization that represents the proficiency 
 This project is licensed under the [MIT License](LICENSE).
 
 ## Credits
-- **Author**: [Your Name]
+- **Author**: Jonathan Aru
 - **Library**: [Requests Library](https://docs.python-requests.org/)
 - **Built With**: A-Frame, JavaScript, and HTML5.
