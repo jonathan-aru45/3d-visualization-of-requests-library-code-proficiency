@@ -1,5 +1,8 @@
 # 3D Visualization of Requests Library Code Proficiency
 
+## Preview
+![3D Cityscape Preview](https://cdn.glitch.global/d3073659-2599-4cb7-9646-a5be0f545f1f/preview.png?v=1733246196262)
+
 This project is an interactive 3D visualization that represents the proficiency levels required to work with Python code in various `.py` files of the Requests Library. Using A-Frame, the project creates a cityscape where:
 
 - **Folders** are represented as blocks.
